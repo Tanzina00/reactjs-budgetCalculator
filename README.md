@@ -1,5 +1,7 @@
-In the project directory, you can run:
 # budget-calculator
+
+In the project directory, you can run:
+
 ### yarn install or npm install
 
 ### yarn start or npm start
